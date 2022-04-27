@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------
+-- Company:        ITESM - Campus Qro.
+-- Engineer:       Marcela
+--						 Mariana
+--						 José Manuel Neri Villeda
+-- 
+-- Create Date:    17:30  08/03/2021 
+-- Project Name: 	 Unidad de control
+--
+-- Description:    Este es el top de la Unidad de control
+--
+----------------------------------------------------------------------------------
+library IEEE;
+use IEEE.std_logic_1164.all;
+use IEEE.numeric_std.all;
+use IEEE.std_logic_unsigned.all;
+
+entity Top is
+port();
+end Top;
+
+architecture rtl of Top is
+begin
+end rtl;
